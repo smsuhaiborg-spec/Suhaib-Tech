@@ -22,6 +22,16 @@
 
 <br>
 
+<!-- ======================= CODING GIF ======================= -->
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400" alt="Coding Vibe"/>
+
+</div>
+
+<br>
+
 <!-- ======================= ABOUT ======================= -->
 
 <div align="center">
@@ -67,6 +77,10 @@ Learning by actually making things instead of only watching tutorials.
 <br>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Courier+Prime&size=22&duration=1800&pause=500&color=58A6FF&center=true&vCenter=true&width=850&height=100&lines=%3E+initializing+developer.exe;%3E+learning_c.exe;%3E+practicing_problem_solving.exe;%3E+building_projects.exe;%3E+status%3A+KEEP+GOING+%F0%9F%9A%80" width="850" alt="Developer animation"/>
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="300" alt="Pro Coder"/>
 
 </div>
 
@@ -116,6 +130,10 @@ Learning by actually making things instead of only watching tutorials.
 <br>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&duration=2500&pause=800&color=8B949E&center=true&vCenter=true&width=800&height=60&lines=Started+with+the+basics;Learning+to+solve+problems;Building+small+projects;Next%3A+building+something+real+%F0%9F%94%A5" alt="Journey animation"/>
+
+<br><br>
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="300" alt="Coding from Home"/>
 
 </div>
 
@@ -257,6 +275,10 @@ Bigger projects as my skills continue to grow.
 
 <br>
 
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="400" alt="Development Time"/>
+
+<br><br>
+
 <img src="https://img.shields.io/badge/01%20%7C%20MASTER%20THE%20BASICS-161B22?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/02%20%7C%20BUILD%20PROJECTS-161B22?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/03%20%7C%20IMPROVE%20PROBLEM%20SOLVING-161B22?style=for-the-badge"/>
@@ -276,6 +298,10 @@ Bigger projects as my skills continue to grow.
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=750&height=60&lines=LEARNING+%F0%9F%8C%B1;BUILDING+%F0%9F%94%A8;IMPROVING+%E2%9C%A8;ONE+STEP+AT+A+TIME+%F0%9F%9A%80" alt="Final animation"/>
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="400" alt="Coding in Peace"/>
 
 <br><br>
 
